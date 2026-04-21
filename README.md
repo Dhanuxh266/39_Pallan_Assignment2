@@ -1,36 +1,19 @@
-#  Assignment Title
+# Sentiment Analysis Assignment
 
-## (1) Problem Statement
-Describe the problem.
+## Objective
+Classify tweets into positive, negative, neutral.
 
-## (2) Objective
-- Define the goal.
+## Dataset
+100 tweets manually labeled.
 
-## (3) Dataset
-- Source:
-- Features:
-- Size:
+## Models Used
+- Naive Bayes
+- Logistic Regression
+- SVM
 
-## (4) Methodology
-1. Data Preprocessing  
-2. EDA  
-3. Model Building  
-4. Evaluation  
+## Results
+SVM achieved highest accuracy.
 
-## (5) Results
-- Metrics and insights
-
-## (6) How to Run
-```bash
+## How to Run
 pip install -r requirements.txt
 python main.py
-```
-
-## (7) Conclusion
-Summarize findings.
-
-## (8) Student's details
-- Name:
-- Roll No:
-- UIN:
-- YEAR: TE-AIDS
